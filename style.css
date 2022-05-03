@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+body{
+    position: absolute;
+    padding: 10%;
+    padding-top: 2%;
+    background-color: #390D02;
+
+}
+
+main{
+    
+    padding-bottom: 25px;
+    border-radius: 20px;
+    background-color: white;
+    margin: auto;
+    
+}
+
+picture{
+    position: absolute;
+    padding-left: 30%;
+    padding-top: 10px;
+}
+
+h1{
+    color: #103b41;
+    position: relative;
+    padding-left: 30%;
+    padding-top: 25%;
+    
+    
+    
+}
+h2{
+    color: #103b41;
+    position: relative;
+    padding-left: 5%;
+}
+
+h3{
+    color: #103b41;
+    position: relative;
+    padding-left: 5%;
+}
+
+p{
+    padding: 10px;
+    position: relative;
+    padding-left: 5%;
+    text-align: justify;
+}
+
+a{  
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+
+.ico{
+    width: 25px;
+    overflow: hidden;
+    vertical-align: middle;
+}
